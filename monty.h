@@ -107,4 +107,6 @@ void _mul(stack_t **doubly, unsigned int line_number);
 void _mod(stack_t **doubly, unsigned int line_number);
 void _pchar(stack_t **doubly, unsigned int line_number);
 void _pstr(stack_t **doubly, unsigned int line_number);
+void _rotl(stack_t **doubly, unsigned int line_number);
+void _rotr(stack_t **doubly, unsigned int line_number);
 #endif
